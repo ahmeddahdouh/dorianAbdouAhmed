@@ -1,0 +1,4 @@
+salut dorian Il est nécessaire d'ajouter du contenu dans le fichier test ,
+car il était vide et existait déjà dans la branche principale.
+ Il n'y avait pas de différences entre ta branche et la branche principale, donc il n'y avait rien à fusionner.
+C'est pour cette raison qu'il ne nous a pas proposé de pull request
